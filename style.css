@@ -58,10 +58,12 @@ button{
 .rightCont{
     width: 50%;
     font-size: 80px;
+    color: #ffffff;
 }
 .leftCont{
     width: 50%;
     font-size: 30px;
+    color:#ffffff;
 }
 .heroimg{
     background-image: url(./assets/law_requirements.jpg);
